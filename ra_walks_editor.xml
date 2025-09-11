@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension type="component" version="4.0" method="upgrade">
     <name>com_ra_walks_editor</name>
-    <creationDate>2024-10-18</creationDate>
-    <copyright>2024 ruby.tuesday@ramblers-webs.org.uk</copyright>
+    <creationDate>2025-09-11</creationDate>
+    <copyright>2025 ruby.tuesday@ramblers-webs.org.uk</copyright>
     <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
     <author>Chris Vaughan </author>
     <authorEmail>ruby.tuesday@ramblers-webs.org.uk</authorEmail>
     <authorUrl>http://ramblers-webs.org.uk</authorUrl>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <description>COM_RA_WALKS_EDITOR_XML_DESCRIPTION</description>
     <namespace path="src">Ramblers\Component\Ra_walks_editor</namespace>
     

@@ -91,8 +91,6 @@ class Loader extends \RLeafletMap {
         parent::setCommand('ra.walkseditor.comp.viewAllwalks');
         parent::setDataObject($this->data);
         parent::display();
-        $document = \JFactory::getDocument();
-        $document->addScript("media/lib_ramblers/vendors/jplist-es6-master/dist/1.2.0/jplist.min.js", "text/javascript");
         \RWalkseditor::addScriptsandCss();
     }
 
